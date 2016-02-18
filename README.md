@@ -10,7 +10,7 @@ Website where user enters a date and returns with what day of the week it was or
 
 ### Known Bugs
 
-No known bugs at this time.
+Will not accurately calculate day of week in years with only 3 digits unless you put a 0 before them.
 
 ### Setup
 
