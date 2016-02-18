@@ -1,0 +1,16 @@
+Plain English Specs
+
+
+1. make sure date function works as desired in normal year
+   month = July
+   day = 5
+   year = 1967
+
+   output = Wednesday
+
+2. make sure date function works as desired in leap year
+   month = March
+   day = 20
+   year = 2020
+
+   output = Friday
