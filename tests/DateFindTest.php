@@ -23,6 +23,23 @@
 
         }
 
+        function test_dayOfWeekFinder_leapYear()
+        {
+            //Arrange
+            $test_DateFind = new DateFind;
+            $month = 3;
+            $day = 20;
+            $year = 2020;
+
+            //Act
+            $result = $test_DateFind->dayOfWeekFinder($month, $day, $year);
+
+
+            //Assert
+            $this->assertEquals("March 20, 2020 is on a Friday", $result);
+
+        }
+
 
     }
 
