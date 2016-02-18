@@ -1,11 +1,11 @@
-# TITLE
+# Find Day of the Week
 
 ## Epicodus PHP, Week 2: BDD Practice
 
-### By: Jordan Meier
+### By: Jordan Meier & Jon Nardine
 
 ### Description
-
+Website where user enters a date and returns with what day of the week it was or will be.
 
 
 ### Known Bugs
